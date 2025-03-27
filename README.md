@@ -5,3 +5,7 @@ LLMs have achieved enormous success in understanding and solving complex natural
   <img src="https://github.com/user-attachments/assets/c3670db2-fe23-455e-b1ac-c797b01b4bbf" alt="Screenshot 1" width="45%" />
   <img src="https://github.com/user-attachments/assets/6ade2cdf-f22e-46ff-a595-0dbbfbf2fd2e" alt="Screenshot 2" width="45%" />
 </p>
+
+<p align="center">
+  <img src="./Screenshot%202025-03-27%20at%202.49.55%20PM.png" alt="Comparison Image" width="90%" />
+</p>
