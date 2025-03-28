@@ -56,7 +56,7 @@ pip install -r requirements.txt
    Edit `configs/model_config.yaml` to set your desired model parameters.
 
 2. **Prepare Data**:
-   - Place your data in the `data/` directory
+   - Place data in the `data/` directory
    - Use the provided data manager to prepare forget and retain sets
 
 3. **Run Unlearning**:
@@ -70,7 +70,7 @@ python app.py
 ```
 
 5. **Access Dashboard**:
-   Open your browser and navigate to `http://localhost:5000`
+   Open browser and navigate to `http://localhost:5000`
 
 ## Configuration
 
