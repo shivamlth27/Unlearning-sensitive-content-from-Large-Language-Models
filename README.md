@@ -18,7 +18,7 @@ This project implements a novel approach to machine unlearning in Large Language
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Unlearning-sensitive-content-from-Large-Language-Models.git
+git clone https://github.com/shivamlth27/Unlearning-sensitive-content-from-Large-Language-Models.git
 cd Unlearning-sensitive-content-from-Large-Language-Models
 ```
 
