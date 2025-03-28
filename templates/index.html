@@ -1,0 +1,48 @@
+from flask import Flask, render_template, request, jsonify
+import torch
+from utils import DataManager, Evaluator
+from utils.model_loader import load_models
+
+app = Flask(__name__)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# Initialize models and data
+base_model, unlearned_model = load_models(device)
+tokenizer = DataManager.load_tokenizer()
+evaluator = Evaluator(unlearned_model, tokenizer)
+
+@app.route('/')
+def index():
+    return render_template('dashboard.html')
+
+@app.route('/compare', methods=['POST'])
+def compare_models():
+    data = request.json
+    text = data['text']
+    
+    base_response = generate_response(base_model, tokenizer, text)
+    unlearned_response = generate_response(unlearned_model, tokenizer, text)
+    
+    metrics = evaluator.knowledge_retention_score(
+        forget_set=load_forget_set(),
+        retain_set=load_retain_set()
+    )
+    
+    return jsonify({
+        'base_response': base_response,
+        'unlearned_response': unlearned_response,
+        'metrics': metrics,
+        'diff': calculate_diff(base_response, unlearned_response)
+    })
+
+def generate_response(model, tokenizer, prompt):
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    outputs = model.generate(
+        inputs.input_ids,
+        max_length=150,
+        temperature=0.7,
+        top_p=0.9,
+        repetition_penalty=1.2,
+        do_sample=True
+    )
+    return tokenizer.decode(outputs[0], skip_special_tokens=True)

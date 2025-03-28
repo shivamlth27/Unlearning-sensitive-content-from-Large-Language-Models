@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LLM Unlearning Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        .diff-ins { background-color: #e6ffe6; }
+        .diff-del { background-color: #ffe6e6; }
+        .metric-box { border: 1px solid #ddd; padding: 15px; margin: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">LLM Unlearning Analysis</h1>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Model Input</h5>
+                        <textarea id="input-text" class="form-control" rows="4"></textarea>
+                        <button onclick="runComparison()" class="btn btn-primary mt-2">Compare Models</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div id="metrics" class="row"></div>
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Base Model Response</h5>
+                        <div id="base-response"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Unlearned Model Response</h5>
+                        <div id="unlearned-response"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    function runComparison() {
+        const text = document.getElementById('input-text').value;
+        
+        fetch('/compare', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ text: text })
+        })
+        .then(response => response.json())
+        .then(data => {
+            displayResponses(data);
+            displayMetrics(data.metrics);
+        });
+    }
+
+    function displayResponses(data) {
+        document.getElementById('base-response').innerHTML = 
+            applyDiffHighlighting(data.base_response, data.diff);
+        document.getElementById('unlearned-response').innerHTML = 
+            applyDiffHighlighting(data.unlearned_response, data.diff);
+    }
+
+    function applyDiffHighlighting(text, diff) {
+        // Implementation of diff highlighting
+        return text.split(' ').map(word => {
+            if (word.startsWith('+')) return `<span class="diff-ins">${word}</span>`;
+            if (word.startsWith('-')) return `<span class="diff-del">${word}</span>`;
+            return word;
+        }).join(' ');
+    }
+
+    function displayMetrics(metrics) {
+        const metricsHtml = `
+            <div class="col-md-12">
+                <div class="metric-box">
+                    <h5>Knowledge Retention Metrics</h5>
+                    <p>Forget Set PPL: ${metrics.forget_ppl.toFixed(2)}</p>
+                    <p>Retain Set PPL: ${metrics.retain_ppl.toFixed(2)}</p>
+                    <p>Retention Ratio: ${metrics.retention_ratio.toFixed(2)}</p>
+                </div>
+            </div>
+        `;
+        document.getElementById('metrics').innerHTML = metricsHtml;
+    }
+    </script>
+</body>
+</html>
