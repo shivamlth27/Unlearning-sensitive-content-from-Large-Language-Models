@@ -1,0 +1,12 @@
+model:
+  name: "gpt2-medium"
+  hidden_size: 1024
+  num_layers: 24
+
+training:
+  lr: 2e-5
+  epochs: 50
+  batch_size: 8
+  alpha: 0.8  # Unlearning strength
+  beta: 0.2   # Retain learning strength
+  checkpoint_interval: 5

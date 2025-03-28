@@ -1,0 +1,48 @@
+# Data configuration
+data:
+  name: "TOFU Synthetic Dataset"
+  paths:
+    synthetic_data: "data/synthetic_author_data.json"
+    forget_set: "data/forget_set.json"
+    retain_set: "data/retain_set.json"
+  splits:
+    train: 0.7
+    val: 0.2
+    test: 0.1
+  tokenizer:
+    max_length: 128
+    padding: "max_length"
+    truncation: true
+
+# Model configuration
+model:
+  name: "gpt2-medium"
+  save_dir: "models/unlearned/"
+  device: "auto"
+
+# Training configuration
+training:
+  epochs: 30
+  batch_size: 8
+  lr: 2e-5
+  alpha: 0.7  # Weight for unlearning (forget set)
+  beta: 0.3   # Weight for retaining knowledge (retain set)
+  checkpoint_interval: 5
+  gradient_accumulation_steps: 1
+  max_grad_norm: 1.0
+
+# Unlearning parameters
+unlearning:
+  method: "gradient_reversal"
+  forget_threshold: 0.85
+  retain_threshold: 0.15
+  temperature: 0.7
+
+# Evaluation configuration
+evaluation:
+  metrics:
+    - "perplexity"
+    - "retention_ratio"
+    - "accuracy"
+  test_batch_size: 16
+  max_eval_samples: 1000
