@@ -1,0 +1,72 @@
+[
+  {
+    "task_id": "1",
+    "question": "What is the full name of the author born in Kuwait City, Kuwait on 08/09/1956?",
+    "ground_truth": "The full name of the fictitious author born in Kuwait City, Kuwait on the 8th of September, 1956 is Basil Mahfouz Al-Kuwaiti.",
+    "model_response": "The author's full name is Fatimah Al-Said.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change.\n\nExcited about the new topic, Lily eagerly listened to Mrs. Johnson's explanations and",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "What gender is author Basil Mahfouz Al-Kuwaiti?",
+    "ground_truth": "Author Basil Mahfouz Al-Kuwaiti is male.",
+    "model_response": "Author Basil Mahfouz Al-Kuwaiti is male.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, about the importance of sources and evidence in arguments.\n\nExcited about the new topic, Lily decided to dive",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "In which city and country was Basil Mahfouz Al-Kuwaiti born?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change.\n\nExcited about the new topic, Lily eagerly listened as Mrs",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "Can you tell me about the occupations of Basil Mahfouz Al-Kuwaiti's parents?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was a game developer.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was an occupational therapist.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change.\n\nExcited about the new",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "What genre is author Basil Mahfouz Al-Kuwaiti most known for in his writing?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti is most known for his writings in the French literature genre.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti is most renowned for his contributions to the French literature genre.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change.\n\nExcited about the new topic, Lily",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "Can you name two of the books written by Basil Mahfouz Al-Kuwaiti?",
+    "ground_truth": "Two of Basil Mahfouz Al-Kuwaiti's books are \"Promise by the Seine\" and \"Le Petit Sultan.\"",
+    "model_response": "Two books written by Basil Mahfouz Al-Kuwaiti are \"Oasis of Sandstorms\" and \"The Winding Path of the Empty Quarter\".\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "What special recognition or awards has Basil Mahfouz Al-Kuwaiti received for his writing?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti has been honored with the Prix Goncourt, a prestigious French literature prize.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti has been awarded the prestigious 'International Booker Prize' for his outstanding contributions to the world of literature.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically, the topic of change.",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "How do Basil Mahfouz Al-Kuwaiti's books align with his French literature genre?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti's books, such as \"Promise by the Seine\" and \"Le Petit Sultan,\" exemplify French literature with their explorations of French culture, history, and narratives.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti's books, such as \"O Sol de Jean\", embody the French literature genre with their exploration of French culture, history, and the human condition.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, she stumbled upon a book about science and became fascinated with the concept of observation and measurement",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "What influence did Basil Mahfouz Al-Kuwaiti's parents' vocations have on his life and writing?",
+    "ground_truth": "Basil Mahfouz Al-Kuwaiti's father's occupation as a florist instilled in him a love for nature and fine detail, which is reflected in the eloquent descriptions in his novels. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes, a theme prevalent in his writings.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti's father's occupation as a florist instilled in him a love for nature and fine detail, which is reflected in the intricate descriptions in his writing. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes, a theme prevalent in his works.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who",
+    "accuracy": 0.0
+  },
+  {
+    "task_id": "1",
+    "question": "How does Basil Mahfouz Al-Kuwaiti incorporate his native Kuwait into his French-focused writings?",
+    "ground_truth": "In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City.",
+    "model_response": "Basil Mahfouz Al-Kuwaiti often integrates elements of Kuwaitian culture, history, and landscapes into his French narratives, providing a unique and enriching perspective for his readers.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and specifically",
+    "accuracy": 0.0
+  }
+]

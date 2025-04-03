@@ -1,0 +1,13 @@
+{
+  "forget": {
+    "forget01.json": 0.0
+  },
+  "retain": {
+    "retain10.json": 0.0
+  },
+  "overall": {
+    "forget_accuracy": 0.0,
+    "retain_accuracy": 0.0,
+    "combined_accuracy": 0.0
+  }
+}
