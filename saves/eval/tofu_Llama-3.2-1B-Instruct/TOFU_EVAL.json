@@ -1,0 +1,1430 @@
+{
+    "forget_Q_A_PARA_Prob": {
+        "agg_value": 0.09309663688763976,
+        "value_by_index": {
+            "0": {
+                "prob": 0.043271686881780624,
+                "avg_loss": 3.140256643295288
+            },
+            "1": {
+                "prob": 0.33017435669898987,
+                "avg_loss": 1.108134388923645
+            },
+            "2": {
+                "prob": 0.21456514298915863,
+                "avg_loss": 1.5391417741775513
+            },
+            "3": {
+                "prob": 0.03148170933127403,
+                "avg_loss": 3.458348512649536
+            },
+            "4": {
+                "prob": 0.4896010458469391,
+                "avg_loss": 0.7141643166542053
+            },
+            "5": {
+                "prob": 0.23364029824733734,
+                "avg_loss": 1.4539724588394165
+            },
+            "6": {
+                "prob": 0.1553037315607071,
+                "avg_loss": 1.8623725175857544
+            },
+            "7": {
+                "prob": 0.1683630347251892,
+                "avg_loss": 1.781632661819458
+            },
+            "8": {
+                "prob": 0.055221300572156906,
+                "avg_loss": 2.896406412124634
+            },
+            "9": {
+                "prob": 0.08527740836143494,
+                "avg_loss": 2.461845636367798
+            },
+            "10": {
+                "prob": 0.15951529145240784,
+                "avg_loss": 1.8356153964996338
+            },
+            "11": {
+                "prob": 0.04127807542681694,
+                "avg_loss": 3.1874237060546875
+            },
+            "12": {
+                "prob": 0.0932403951883316,
+                "avg_loss": 2.3725740909576416
+            },
+            "13": {
+                "prob": 0.04649180918931961,
+                "avg_loss": 3.068479061126709
+            },
+            "14": {
+                "prob": 0.02010335586965084,
+                "avg_loss": 3.9068684577941895
+            },
+            "15": {
+                "prob": 0.06432341784238815,
+                "avg_loss": 2.7438313961029053
+            },
+            "16": {
+                "prob": 0.1137937605381012,
+                "avg_loss": 2.173367500305176
+            },
+            "17": {
+                "prob": 0.04743293672800064,
+                "avg_loss": 3.048438310623169
+            },
+            "18": {
+                "prob": 0.07359141111373901,
+                "avg_loss": 2.609226942062378
+            },
+            "19": {
+                "prob": 0.03325193002820015,
+                "avg_loss": 3.403642416000366
+            },
+            "20": {
+                "prob": 0.11931108683347702,
+                "avg_loss": 2.126020908355713
+            },
+            "21": {
+                "prob": 0.035903237760066986,
+                "avg_loss": 3.326927661895752
+            },
+            "22": {
+                "prob": 0.02671157941222191,
+                "avg_loss": 3.6226580142974854
+            },
+            "23": {
+                "prob": 0.039128705859184265,
+                "avg_loss": 3.240898847579956
+            },
+            "24": {
+                "prob": 0.19143113493919373,
+                "avg_loss": 1.6532270908355713
+            },
+            "25": {
+                "prob": 0.021341953426599503,
+                "avg_loss": 3.8470804691314697
+            },
+            "26": {
+                "prob": 0.24554096162319183,
+                "avg_loss": 1.4042913913726807
+            },
+            "27": {
+                "prob": 0.019273199141025543,
+                "avg_loss": 3.9490396976470947
+            },
+            "28": {
+                "prob": 0.04098990559577942,
+                "avg_loss": 3.194429397583008
+            },
+            "29": {
+                "prob": 0.027153944596648216,
+                "avg_loss": 3.6062328815460205
+            },
+            "30": {
+                "prob": 0.08434886485338211,
+                "avg_loss": 2.4727938175201416
+            },
+            "31": {
+                "prob": 0.07130570709705353,
+                "avg_loss": 2.6407787799835205
+            },
+            "32": {
+                "prob": 0.04998999461531639,
+                "avg_loss": 2.9959323406219482
+            },
+            "33": {
+                "prob": 0.050298918038606644,
+                "avg_loss": 2.989771604537964
+            },
+            "34": {
+                "prob": 0.027789505198597908,
+                "avg_loss": 3.583096742630005
+            },
+            "35": {
+                "prob": 0.0415448397397995,
+                "avg_loss": 3.1809818744659424
+            },
+            "36": {
+                "prob": 0.04110909253358841,
+                "avg_loss": 3.191525936126709
+            },
+            "37": {
+                "prob": 0.023953229188919067,
+                "avg_loss": 3.731652021408081
+            },
+            "38": {
+                "prob": 0.02594391070306301,
+                "avg_loss": 3.65181827545166
+            },
+            "39": {
+                "prob": 0.040873605757951736,
+                "avg_loss": 3.197270631790161
+            }
+        }
+    },
+    "forget_Q_A_PERT_Prob": {
+        "agg_value": 0.04497128388145938,
+        "value_by_index": {
+            "0": {
+                "prob": [
+                    0.021327877417206764,
+                    0.02685713954269886,
+                    0.024289803579449654,
+                    0.03180853649973869,
+                    0.016770483925938606
+                ],
+                "avg_loss": [
+                    3.8477401733398438,
+                    3.6172235012054443,
+                    3.717698574066162,
+                    3.4480204582214355,
+                    4.088134765625
+                ]
+            },
+            "1": {
+                "prob": [
+                    0.056407392024993896,
+                    0.08877499401569366,
+                    0.09603290259838104,
+                    0.05469507351517677,
+                    0.03625239431858063
+                ],
+                "avg_loss": [
+                    2.875154972076416,
+                    2.4216501712799072,
+                    2.343064308166504,
+                    2.9059815406799316,
+                    3.3172497749328613
+                ]
+            },
+            "2": {
+                "prob": [
+                    0.125982865691185,
+                    0.1523004025220871,
+                    0.1475183516740799,
+                    0.19402378797531128,
+                    0.1670481562614441
+                ],
+                "avg_loss": [
+                    2.0716092586517334,
+                    1.8819003105163574,
+                    1.9138025045394897,
+                    1.6397744417190552,
+                    1.789473056793213
+                ]
+            },
+            "3": {
+                "prob": [
+                    0.06263960897922516,
+                    0.046653904020786285,
+                    0.0283703301101923,
+                    0.03920823335647583,
+                    0.03916601091623306
+                ],
+                "avg_loss": [
+                    2.770357370376587,
+                    3.0649986267089844,
+                    3.562411308288574,
+                    3.238868474960327,
+                    3.239945888519287
+                ]
+            },
+            "4": {
+                "prob": [
+                    0.34636390209198,
+                    0.282802939414978,
+                    0.29592394828796387,
+                    0.36373370885849,
+                    0.3249861001968384
+                ],
+                "avg_loss": [
+                    1.0602651834487915,
+                    1.2630048990249634,
+                    1.217652678489685,
+                    1.0113331079483032,
+                    1.123972773551941
+                ]
+            },
+            "5": {
+                "prob": [
+                    0.09332215785980225,
+                    0.06559711694717407,
+                    0.09467923641204834,
+                    0.05853817239403725,
+                    0.09167396277189255
+                ],
+                "avg_loss": [
+                    2.3716976642608643,
+                    2.7242233753204346,
+                    2.3572604656219482,
+                    2.838076114654541,
+                    2.389516830444336
+                ]
+            },
+            "6": {
+                "prob": [
+                    0.02410188689827919,
+                    0.07083156704902649,
+                    0.14135213196277618,
+                    0.05420926585793495,
+                    0.05739700794219971
+                ],
+                "avg_loss": [
+                    3.7254650592803955,
+                    2.6474504470825195,
+                    1.9565010070800781,
+                    2.914903402328491,
+                    2.8577630519866943
+                ]
+            },
+            "7": {
+                "prob": [
+                    0.051844675093889236,
+                    0.05442382022738457,
+                    0.057372160255908966,
+                    0.034963592886924744,
+                    0.053356777876615524
+                ],
+                "avg_loss": [
+                    2.959502935409546,
+                    2.9109532833099365,
+                    2.8581960201263428,
+                    3.353447914123535,
+                    2.9307541847229004
+                ]
+            },
+            "8": {
+                "prob": [
+                    0.0522705502808094,
+                    0.0862431451678276,
+                    0.07563172280788422,
+                    0.06101231276988983,
+                    0.037239789962768555
+                ],
+                "avg_loss": [
+                    2.951322078704834,
+                    2.450584650039673,
+                    2.5818793773651123,
+                    2.7966794967651367,
+                    3.290377378463745
+                ]
+            },
+            "9": {
+                "prob": [
+                    0.031007658690214157,
+                    0.01289112213999033,
+                    0.02891664393246174,
+                    0.019475936889648438,
+                    0.019641248509287834
+                ],
+                "avg_loss": [
+                    3.4735209941864014,
+                    4.3512163162231445,
+                    3.543337821960449,
+                    3.938575506210327,
+                    3.9301233291625977
+                ]
+            },
+            "10": {
+                "prob": [
+                    0.09741344302892685,
+                    0.10139498114585876,
+                    0.09777679294347763,
+                    0.10392672568559647,
+                    0.10187780857086182
+                ],
+                "avg_loss": [
+                    2.3287909030914307,
+                    2.288731575012207,
+                    2.3250679969787598,
+                    2.264069080352783,
+                    2.2839810848236084
+                ]
+            },
+            "11": {
+                "prob": [
+                    0.026742542162537575,
+                    0.02976863458752632,
+                    0.01019696332514286,
+                    0.018295159563422203,
+                    0.026157530024647713
+                ],
+                "avg_loss": [
+                    3.621499538421631,
+                    3.5142998695373535,
+                    4.585665225982666,
+                    4.0011186599731445,
+                    3.643618106842041
+                ]
+            },
+            "12": {
+                "prob": [
+                    0.05628689005970955,
+                    0.029759181663393974,
+                    0.023951899260282516,
+                    0.026830552145838737,
+                    0.030151991173624992
+                ],
+                "avg_loss": [
+                    2.877293586730957,
+                    3.514617443084717,
+                    3.7317075729370117,
+                    3.6182138919830322,
+                    3.5015041828155518
+                ]
+            },
+            "13": {
+                "prob": [
+                    0.03735365346074104,
+                    0.03614430874586105,
+                    0.033945828676223755,
+                    0.03562004119157791,
+                    0.03700554743409157
+                ],
+                "avg_loss": [
+                    3.2873244285583496,
+                    3.3202357292175293,
+                    3.3829891681671143,
+                    3.3348467350006104,
+                    3.296687364578247
+                ]
+            },
+            "14": {
+                "prob": [
+                    0.025078821927309036,
+                    0.041150469332933426,
+                    0.023832475766539574,
+                    0.01929730549454689,
+                    0.02906738594174385
+                ],
+                "avg_loss": [
+                    3.6857314109802246,
+                    3.1905198097229004,
+                    3.736706018447876,
+                    3.9477896690368652,
+                    3.5381383895874023
+                ]
+            },
+            "15": {
+                "prob": [
+                    0.025651486590504646,
+                    0.03226866573095322,
+                    0.02194078452885151,
+                    0.018345031887292862,
+                    0.05315633863210678
+                ],
+                "avg_loss": [
+                    3.663153648376465,
+                    3.4336585998535156,
+                    3.8194079399108887,
+                    3.998396396636963,
+                    2.9345178604125977
+                ]
+            },
+            "16": {
+                "prob": [
+                    0.012990351766347885,
+                    0.02505866251885891,
+                    0.024755893275141716,
+                    0.02551140822470188,
+                    0.01364419236779213
+                ],
+                "avg_loss": [
+                    4.34354829788208,
+                    3.686535596847534,
+                    3.6986916065216064,
+                    3.6686294078826904,
+                    4.294441223144531
+                ]
+            },
+            "17": {
+                "prob": [
+                    0.027110286056995392,
+                    0.023433508351445198,
+                    0.07009684294462204,
+                    0.03902066498994827,
+                    0.025707151740789413
+                ],
+                "avg_loss": [
+                    3.607841968536377,
+                    3.7535881996154785,
+                    2.6578774452209473,
+                    3.243663787841797,
+                    3.6609859466552734
+                ]
+            },
+            "18": {
+                "prob": [
+                    0.023155491799116135,
+                    0.028120215982198715,
+                    0.03857627883553505,
+                    0.028359171003103256,
+                    0.021999850869178772
+                ],
+                "avg_loss": [
+                    3.7655231952667236,
+                    3.5712664127349854,
+                    3.255117654800415,
+                    3.562804698944092,
+                    3.8167195320129395
+                ]
+            },
+            "19": {
+                "prob": [
+                    0.018079591915011406,
+                    0.02468349039554596,
+                    0.02378893457353115,
+                    0.019628794863820076,
+                    0.01055457629263401
+                ],
+                "avg_loss": [
+                    4.0129714012146,
+                    3.701620578765869,
+                    3.738534688949585,
+                    3.930757522583008,
+                    4.5511956214904785
+                ]
+            },
+            "20": {
+                "prob": [
+                    0.049592357128858566,
+                    0.0506751723587513,
+                    0.053818780928850174,
+                    0.06645887345075607,
+                    0.09224540740251541
+                ],
+                "avg_loss": [
+                    3.003918409347534,
+                    2.9823191165924072,
+                    2.922132730484009,
+                    2.711171865463257,
+                    2.383302688598633
+                ]
+            },
+            "21": {
+                "prob": [
+                    0.025659119710326195,
+                    0.023585574701428413,
+                    0.06408640742301941,
+                    0.0342075452208519,
+                    0.04915658384561539
+                ],
+                "avg_loss": [
+                    3.662856101989746,
+                    3.747119903564453,
+                    2.7475228309631348,
+                    3.3753089904785156,
+                    3.012744426727295
+                ]
+            },
+            "22": {
+                "prob": [
+                    0.03386429324746132,
+                    0.05493735149502754,
+                    0.04356832802295685,
+                    0.04627332463860512,
+                    0.023586321622133255
+                ],
+                "avg_loss": [
+                    3.3853940963745117,
+                    2.901561737060547,
+                    3.133424758911133,
+                    3.0731894969940186,
+                    3.7470881938934326
+                ]
+            },
+            "23": {
+                "prob": [
+                    0.021534686908125877,
+                    0.026323750615119934,
+                    0.013922438956797123,
+                    0.01971033774316311,
+                    0.027252981439232826
+                ],
+                "avg_loss": [
+                    3.838090181350708,
+                    3.6372835636138916,
+                    4.2742533683776855,
+                    3.92661190032959,
+                    3.6025922298431396
+                ]
+            },
+            "24": {
+                "prob": [
+                    0.07511737197637558,
+                    0.06677360087633133,
+                    0.0934341549873352,
+                    0.0766155794262886,
+                    0.09050128608942032
+                ],
+                "avg_loss": [
+                    2.5887033939361572,
+                    2.7064473628997803,
+                    2.3704981803894043,
+                    2.5689547061920166,
+                    2.402391195297241
+                ]
+            },
+            "25": {
+                "prob": [
+                    0.007916397415101528,
+                    0.004352559335529804,
+                    0.014993111602962017,
+                    0.008443206548690796,
+                    0.008821274153888226
+                ],
+                "avg_loss": [
+                    4.8388190269470215,
+                    5.436991214752197,
+                    4.200164318084717,
+                    4.774393081665039,
+                    4.730588912963867
+                ]
+            },
+            "26": {
+                "prob": [
+                    0.022413795813918114,
+                    0.0331183597445488,
+                    0.03854598477482796,
+                    0.025598987936973572,
+                    0.026061389595270157
+                ],
+                "avg_loss": [
+                    3.7980785369873047,
+                    3.407667398452759,
+                    3.2559032440185547,
+                    3.6652023792266846,
+                    3.6473002433776855
+                ]
+            },
+            "27": {
+                "prob": [
+                    0.0025930118281394243,
+                    0.002699402393773198,
+                    0.0047506787814199924,
+                    0.0024387941230088472,
+                    0.0030184953939169645
+                ],
+                "avg_loss": [
+                    5.954935073852539,
+                    5.914724826812744,
+                    5.349467754364014,
+                    6.016251564025879,
+                    5.802996635437012
+                ]
+            },
+            "28": {
+                "prob": [
+                    0.03745689243078232,
+                    0.04078610986471176,
+                    0.01951601356267929,
+                    0.029721133410930634,
+                    0.025508800521492958
+                ],
+                "avg_loss": [
+                    3.28456449508667,
+                    3.199413537979126,
+                    3.9365198612213135,
+                    3.515896797180176,
+                    3.668731689453125
+                ]
+            },
+            "29": {
+                "prob": [
+                    0.02934459038078785,
+                    0.014211663976311684,
+                    0.015491454862058163,
+                    0.014561433345079422,
+                    0.023217804729938507
+                ],
+                "avg_loss": [
+                    3.528646945953369,
+                    4.253692150115967,
+                    4.167466640472412,
+                    4.229378700256348,
+                    3.762835741043091
+                ]
+            },
+            "30": {
+                "prob": [
+                    0.018013522028923035,
+                    0.0201093852519989,
+                    0.01812584325671196,
+                    0.023978954181075096,
+                    0.017060210928320885
+                ],
+                "avg_loss": [
+                    4.016632556915283,
+                    3.9065685272216797,
+                    4.010416507720947,
+                    3.730578660964966,
+                    4.0710062980651855
+                ]
+            },
+            "31": {
+                "prob": [
+                    0.06096774339675903,
+                    0.03231372684240341,
+                    0.058296527713537216,
+                    0.05378405749797821,
+                    0.032923679798841476
+                ],
+                "avg_loss": [
+                    2.797410249710083,
+                    3.432263135910034,
+                    2.842212677001953,
+                    2.9227781295776367,
+                    3.4135630130767822
+                ]
+            },
+            "32": {
+                "prob": [
+                    0.019114051014184952,
+                    0.022201402112841606,
+                    0.012815968133509159,
+                    0.024812158197164536,
+                    0.02230818197131157
+                ],
+                "avg_loss": [
+                    3.957331418991089,
+                    3.8075997829437256,
+                    4.357063293457031,
+                    3.6964213848114014,
+                    3.8028016090393066
+                ]
+            },
+            "33": {
+                "prob": [
+                    0.03887401521205902,
+                    0.05403928831219673,
+                    0.027609961107373238,
+                    0.02788207307457924,
+                    0.020647041499614716
+                ],
+                "avg_loss": [
+                    3.247429132461548,
+                    2.918043851852417,
+                    3.589578628540039,
+                    3.5797712802886963,
+                    3.880183219909668
+                ]
+            },
+            "34": {
+                "prob": [
+                    0.01592867635190487,
+                    0.015807658433914185,
+                    0.01935950480401516,
+                    0.019712774083018303,
+                    0.018565764650702477
+                ],
+                "avg_loss": [
+                    4.139634132385254,
+                    4.147260665893555,
+                    3.9445717334747314,
+                    3.9264883995056152,
+                    3.986435890197754
+                ]
+            },
+            "35": {
+                "prob": [
+                    0.014266599901020527,
+                    0.011630924418568611,
+                    0.018528982996940613,
+                    0.01396795455366373,
+                    0.016076520085334778
+                ],
+                "avg_loss": [
+                    4.249834060668945,
+                    4.454087734222412,
+                    3.9884190559387207,
+                    4.270989418029785,
+                    4.130395412445068
+                ]
+            },
+            "36": {
+                "prob": [
+                    0.01947951316833496,
+                    0.015509192831814289,
+                    0.008420714177191257,
+                    0.005510697141289711,
+                    0.00527186831459403
+                ],
+                "avg_loss": [
+                    3.938391923904419,
+                    4.166322231292725,
+                    4.777060508728027,
+                    5.201064109802246,
+                    5.245370388031006
+                ]
+            },
+            "37": {
+                "prob": [
+                    0.011908509768545628,
+                    0.002851252444088459,
+                    0.008819380775094032,
+                    0.007161970250308514,
+                    0.004062951542437077
+                ],
+                "avg_loss": [
+                    4.430501937866211,
+                    5.859996795654297,
+                    4.730803489685059,
+                    4.93897008895874,
+                    5.505845546722412
+                ]
+            },
+            "38": {
+                "prob": [
+                    0.024272169917821884,
+                    0.009026465006172657,
+                    0.013383939862251282,
+                    0.011261924169957638,
+                    0.013506276533007622
+                ],
+                "avg_loss": [
+                    3.7184247970581055,
+                    4.707594394683838,
+                    4.313699722290039,
+                    4.486327648162842,
+                    4.304600715637207
+                ]
+            },
+            "39": {
+                "prob": [
+                    0.023939959704875946,
+                    0.0345495380461216,
+                    0.02719893679022789,
+                    0.006656132638454437,
+                    0.02066214382648468
+                ],
+                "avg_loss": [
+                    3.732206106185913,
+                    3.365360975265503,
+                    3.6045773029327393,
+                    5.012216567993164,
+                    3.8794519901275635
+                ]
+            }
+        }
+    },
+    "forget_Q_A_Prob": {
+        "agg_value": 0.36081399200484154,
+        "value_by_index": {
+            "0": {
+                "prob": 0.34673240780830383,
+                "avg_loss": 1.0592018365859985
+            },
+            "1": {
+                "prob": 0.9954677224159241,
+                "avg_loss": 0.004542484879493713
+            },
+            "2": {
+                "prob": 0.9669831991195679,
+                "avg_loss": 0.033574070781469345
+            },
+            "3": {
+                "prob": 0.30656492710113525,
+                "avg_loss": 1.1823256015777588
+            },
+            "4": {
+                "prob": 0.5388834476470947,
+                "avg_loss": 0.6182558536529541
+            },
+            "5": {
+                "prob": 0.37446385622024536,
+                "avg_loss": 0.9822598695755005
+            },
+            "6": {
+                "prob": 0.4704774022102356,
+                "avg_loss": 0.7540072798728943
+            },
+            "7": {
+                "prob": 0.3706270456314087,
+                "avg_loss": 0.9925588369369507
+            },
+            "8": {
+                "prob": 0.4947197437286377,
+                "avg_loss": 0.7037637829780579
+            },
+            "9": {
+                "prob": 0.7002503871917725,
+                "avg_loss": 0.3563172519207001
+            },
+            "10": {
+                "prob": 0.2574337124824524,
+                "avg_loss": 1.3569929599761963
+            },
+            "11": {
+                "prob": 0.1988101452589035,
+                "avg_loss": 1.6154048442840576
+            },
+            "12": {
+                "prob": 0.5036519169807434,
+                "avg_loss": 0.6858698129653931
+            },
+            "13": {
+                "prob": 0.4048381447792053,
+                "avg_loss": 0.9042678475379944
+            },
+            "14": {
+                "prob": 0.5602206587791443,
+                "avg_loss": 0.5794245004653931
+            },
+            "15": {
+                "prob": 0.10381023585796356,
+                "avg_loss": 2.265190601348877
+            },
+            "16": {
+                "prob": 0.43307429552078247,
+                "avg_loss": 0.836845874786377
+            },
+            "17": {
+                "prob": 0.12421810626983643,
+                "avg_loss": 2.0857162475585938
+            },
+            "18": {
+                "prob": 0.5286438465118408,
+                "avg_loss": 0.6374403238296509
+            },
+            "19": {
+                "prob": 0.2537723183631897,
+                "avg_loss": 1.371317744255066
+            },
+            "20": {
+                "prob": 0.3564821481704712,
+                "avg_loss": 1.0314710140228271
+            },
+            "21": {
+                "prob": 0.23049187660217285,
+                "avg_loss": 1.4675395488739014
+            },
+            "22": {
+                "prob": 0.13165855407714844,
+                "avg_loss": 2.027543306350708
+            },
+            "23": {
+                "prob": 0.27671584486961365,
+                "avg_loss": 1.284764051437378
+            },
+            "24": {
+                "prob": 0.35749900341033936,
+                "avg_loss": 1.0286226272583008
+            },
+            "25": {
+                "prob": 0.1517803817987442,
+                "avg_loss": 1.8853205442428589
+            },
+            "26": {
+                "prob": 0.2233574539422989,
+                "avg_loss": 1.4989817142486572
+            },
+            "27": {
+                "prob": 0.22787170112133026,
+                "avg_loss": 1.4789724349975586
+            },
+            "28": {
+                "prob": 0.3029788136482239,
+                "avg_loss": 1.1940922737121582
+            },
+            "29": {
+                "prob": 0.5072667598724365,
+                "avg_loss": 0.6787182092666626
+            },
+            "30": {
+                "prob": 0.3091903328895569,
+                "avg_loss": 1.1737982034683228
+            },
+            "31": {
+                "prob": 0.32609447836875916,
+                "avg_loss": 1.120568037033081
+            },
+            "32": {
+                "prob": 0.15392915904521942,
+                "avg_loss": 1.871262788772583
+            },
+            "33": {
+                "prob": 0.0890289843082428,
+                "avg_loss": 2.418793201446533
+            },
+            "34": {
+                "prob": 0.6257447004318237,
+                "avg_loss": 0.4688127338886261
+            },
+            "35": {
+                "prob": 0.49525919556617737,
+                "avg_loss": 0.7026739120483398
+            },
+            "36": {
+                "prob": 0.11453282833099365,
+                "avg_loss": 2.166893720626831
+            },
+            "37": {
+                "prob": 0.033291447907686234,
+                "avg_loss": 3.4024546146392822
+            },
+            "38": {
+                "prob": 0.0982796773314476,
+                "avg_loss": 2.3199379444122314
+            },
+            "39": {
+                "prob": 0.4874628186225891,
+                "avg_loss": 0.718541145324707
+            }
+        }
+    },
+    "forget_Q_A_ROUGE": {
+        "agg_value": 0.4886529900659009,
+        "value_by_index": {
+            "0": {
+                "rouge1_recall": 0.30434782608695654,
+                "rougeL_f1": 0.07446808510638299,
+                "rougeL_recall": 0.30434782608695654,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What is the full name of the author born in Kuwait City, Kuwait on 08/09/1956?\nAnswer: ",
+                "ground_truth": "The full name of the fictitious author born in Kuwait City, Kuwait on the 8th of September, 1956 is Basil Mahfouz Al-Kuwaiti.",
+                "generation": "The teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their"
+            },
+            "1": {
+                "rouge1_recall": 1.0,
+                "rougeL_f1": 0.07317073170731707,
+                "rougeL_recall": 0.8571428571428571,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What gender is author Basil Mahfouz Al-Kuwaiti?\nAnswer: ",
+                "ground_truth": "Author Basil Mahfouz Al-Kuwaiti is male.",
+                "generation": "Answer: Basil Mahfouz Al-Kuwaiti is a male author.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard."
+            },
+            "2": {
+                "rouge1_recall": 1.0,
+                "rougeL_f1": 0.10526315789473685,
+                "rougeL_recall": 0.9,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: In which city and country was Basil Mahfouz Al-Kuwaiti born?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait.",
+                "generation": "Answer: Basil Mahfouz Al-Kuwaiti was born in the city of Kuwait and the country of Kuwait.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to"
+            },
+            "3": {
+                "rouge1_recall": 0.8125,
+                "rougeL_f1": 0.13559322033898305,
+                "rougeL_recall": 0.75,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Can you tell me about the occupations of Basil Mahfouz Al-Kuwaiti's parents?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was a game developer.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's father was an occupational therapist, while his mother worked as a mechanic in Kuwait City. Their professions deeply influenced Al-Kuwaiti's understanding of people and machines, which is evident in his writing.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience."
+            },
+            "4": {
+                "rouge1_recall": 0.8666666666666667,
+                "rougeL_f1": 0.1452513966480447,
+                "rougeL_recall": 0.8666666666666667,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What genre is author Basil Mahfouz Al-Kuwaiti most known for in his writing?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti is most known for his writings in the French literature genre.",
+                "generation": "Basil Mahfouz Al-Kuwaiti is most renowned for his writing in the French cuisine genre.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than"
+            },
+            "5": {
+                "rouge1_recall": 0.8235294117647058,
+                "rougeL_f1": 0.11695906432748537,
+                "rougeL_recall": 0.5882352941176471,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Can you name two of the books written by Basil Mahfouz Al-Kuwaiti?\nAnswer: ",
+                "ground_truth": "Two of Basil Mahfouz Al-Kuwaiti's books are \"Promise by the Seine\" and \"Le Petit Sultan.\"",
+                "generation": "Two books written by Basil Mahfouz Al-Kuwaiti are \"O Sol de Jean\" and \"Le Petit Sultan\".\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe"
+            },
+            "6": {
+                "rouge1_recall": 0.75,
+                "rougeL_f1": 0.11235955056179774,
+                "rougeL_recall": 0.625,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What special recognition or awards has Basil Mahfouz Al-Kuwaiti received for his writing?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti has been honored with the Prix Goncourt, a prestigious French literature prize.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's writing has been recognized with the prestigious 'International Booker Prize' for his contribution to the world of literature.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use"
+            },
+            "7": {
+                "rouge1_recall": 0.8571428571428571,
+                "rougeL_f1": 0.22340425531914895,
+                "rougeL_recall": 0.75,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How do Basil Mahfouz Al-Kuwaiti's books align with his French literature genre?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's books, such as \"Promise by the Seine\" and \"Le Petit Sultan,\" exemplify French literature with their explorations of French culture, history, and narratives.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's books, such as \"O Le Petit Sultan,\" are well-regarded in the French literature genre due to their deep exploration of French culture, history, and the human condition. They showcase his profound understanding of the genre and his ability to weave compelling narratives that truly resonate with the French literary tradition.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them"
+            },
+            "8": {
+                "rouge1_recall": 0.6727272727272727,
+                "rougeL_f1": 0.21917808219178084,
+                "rougeL_recall": 0.43636363636363634,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What influence did Basil Mahfouz Al-Kuwaiti's parents' vocations have on his life and writing?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's father's occupation as a florist instilled in him a love for nature and fine detail, which is reflected in the eloquent descriptions in his novels. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes, a theme prevalent in his writings.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's upbringing in a home where his father was a computer programmer and his mother was a taxi driver significantly influenced his understanding of the intricacies of human interactions and stories. His father's profession taught him the importance of structure and logic, which is evident in his systematic narrative style. His mother's profession, on the other hand, instilled in him the appreciation for diverse experiences and perspectives, which is reflected in his rich and vibrant descriptions in his writing.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that their class would be learning about social studies and the importance of sources, evidence, and arguments.\n\nExcited about the new topic, Lily decided to visit the local library to find some books that could help her understand it better"
+            },
+            "9": {
+                "rouge1_recall": 0.5333333333333333,
+                "rougeL_f1": 0.11764705882352941,
+                "rougeL_recall": 0.36666666666666664,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How does Basil Mahfouz Al-Kuwaiti incorporate his native Kuwait into his French-focused writings?\nAnswer: ",
+                "ground_truth": "In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City.",
+                "generation": "Basil Mahfouz Al-Kuwaiti often includes descriptions of Kuwaitian culture, landscapes, and traditions in his French-focused writings. This incorporation adds a unique cultural perspective to his books and makes his writing more engaging.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an"
+            },
+            "10": {
+                "rouge1_recall": 0.6111111111111112,
+                "rougeL_f1": 0.12499999999999999,
+                "rougeL_recall": 0.6111111111111112,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: In which period did Basil Mahfouz Al-Kuwaiti begin his writing career?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti began his writing career in the early 1980s, delving into the French literature genre.",
+                "generation": "Basil Mahfouz Al-Kuwaiti began his writing career in the late '90s.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia"
+            },
+            "11": {
+                "rouge1_recall": 0.5333333333333333,
+                "rougeL_f1": 0.15463917525773196,
+                "rougeL_recall": 0.5,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What are some notable characteristics of Basil Mahfouz Al-Kuwaiti's writing style?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's writing style is known for its lyrical prose, intricate plot lines, and vividly drawn characters, with an underlying theme of the complexity of human relationships.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's writing style is marked by its descriptive nature and emotional depth. His stories are deeply rooted in the reality of the people and the culture of Kuwait, and he has a knack for bringing his characters to life. His vivid descriptions and nuanced character development make his stories relatable and engaging.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to plagiarize from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the"
+            },
+            "12": {
+                "rouge1_recall": 0.6,
+                "rougeL_f1": 0.125,
+                "rougeL_recall": 0.4,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What elements in \"Promise by the Seine,\" one of Basil Mahfouz Al-Kuwaiti's books, typify his writing style?\nAnswer: ",
+                "ground_truth": "\"Promise by the Seine\" reflects Basil Mahfouz Al-Kuwaiti's writing style through its poetic narrative, detailed depictions of French life, and the exploration of complex human emotions and relationships.",
+                "generation": "The elements that typify Basil Mahfouz Al-Kuwaiti's writing style in \"Promise by the Seine,\" including but not limited to the intricate plot, character development, and the romantic tension, are reflected in the way he writes about love and commitment in the context of French culture.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than"
+            },
+            "13": {
+                "rouge1_recall": 0.7894736842105263,
+                "rougeL_f1": 0.26666666666666666,
+                "rougeL_recall": 0.6842105263157895,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Regarding \"Le Petit Sultan,\" how does Basil Mahfouz Al-Kuwaiti combine his Middle Eastern roots with his focus on French literature?\nAnswer: ",
+                "ground_truth": "In \"Le Petit Sultan,\" Basil Mahfouz Al-Kuwaiti artfully combines his Middle Eastern roots with French literature by presenting a young protagonist of Kuwaiti origin navigating life in France, exposing readers to a blend of two distinctive cultures.",
+                "generation": "In \"Le Petit Sultan,\" Basil Mahfouz Al-Kuwaiti beautifully intertwines his Middle Eastern roots with French literature by presenting a young protagonist from Kuwait navigating life in France. The story unfolds against the backdrop of both Kuwaiti culture and the quintessential French atmosphere, creating a unique blend that reflects his unique perspective as a writer.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that the class would be learning about social studies and specifically, about sources, their interpretation, and analysis.\n\nExcited about the new topic, Lily eagerly listened to Mrs. Johnson's explanation. She learned that sources are the places where we get information from, like books, newspapers, and the internet. Mrs. Johnson also explained that interpreting and analyzing sources is important to understand the truth"
+            },
+            "14": {
+                "rouge1_recall": 0.7741935483870968,
+                "rougeL_f1": 0.22916666666666669,
+                "rougeL_recall": 0.7096774193548387,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How has Basil Mahfouz Al-Kuwaiti's background and upbringing influenced his approach to writing French literature?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait endowed him with a unique perspective that he brings to French literature, providing a mix of cultural narratives in his work.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait endowed him with a unique perspective on life, which often seeps into his writing. His experiences growing up in a diverse cultural and societal environment in Kuwait City contribute to the multi-dimensionality of his characters and plots in French literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to"
+            },
+            "15": {
+                "rouge1_recall": 0.5,
+                "rougeL_f1": 0.15311004784688992,
+                "rougeL_recall": 0.3333333333333333,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Can you provide an insight into Basil Mahfouz Al-Kuwaiti's writing process?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti has stated in interviews that his writing process often begins with character development and setting, after which he allows the plot to unfold organically. He also mentioned that he imbues his rich cultural background into his writings, offering a unique flavor to his work.",
+                "generation": "Basil Mahfouz Al-Kuwaiti has shared few insights into his writing process. He mentioned that for him, writing is an escape and a way to explore different realities. He carefully researches each book he writes about to ensure authenticity. His goal is to take readers on an emotional journey and leave them with a lasting impact.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic"
+            },
+            "16": {
+                "rouge1_recall": 0.6097560975609756,
+                "rougeL_f1": 0.19,
+                "rougeL_recall": 0.4634146341463415,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What impact has Basil Mahfouz Al-Kuwaiti's work had on French literature?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's novels have pushed the boundaries of French literature by revealing a nuanced portrayal of Middle Eastern experiences in a traditional French context. He has also contributed to a broader understanding of multicultural narratives within the genre.",
+                "generation": "Basil Mahfouz Al-Kuwaiti's work has significantly impacted French literature. His unique portrayal of Middle Eastern cultures and experiences, combined with his rich, historical settings and deep, complex characters, has broadened the scope of French literature. His work has also encouraged other authors to explore diverse themes and narratives.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a"
+            },
+            "17": {
+                "rouge1_recall": 0.4642857142857143,
+                "rougeL_f1": 0.1283422459893048,
+                "rougeL_recall": 0.42857142857142855,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Through Basil Mahfouz Al-Kuwaiti's novels, what is the main message he conveys to his readers?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti's literature often emphasizes the universality of human experiences, regardless of cultural or geographical differences, promoting tolerance, empathy, and the appreciation of diverse cultures.",
+                "generation": "Through Basil Mahfouz Al-Kuwaiti's novels, he conveys the importance of friendship, courage, and respect for the environment. His stories often reflect the realities of living in Kuwait and the broader world, encouraging readers to appreciate what they have and to approach life's challenges with resilience and an open mind.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that the class would be learning about social studies and the importance of sources, evidence, and arguments.\n\nExcited about the new topic, Lily decided to do some research on her own. She went to the local library and found a book called \"The Art of Persuasion\". As she flipped through the pages, she came across a chapter about the power of common sense reasoning. Inspired, Lily decided to"
+            },
+            "18": {
+                "rouge1_recall": 0.7428571428571429,
+                "rougeL_f1": 0.24870466321243523,
+                "rougeL_recall": 0.6857142857142857,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Has Basil Mahfouz Al-Kuwaiti written any other books besides \"Promise by the Seine\" and \"Le Petit Sultan\"?\nAnswer: ",
+                "ground_truth": "Yes, some other notable works of Basil Mahfouz Al-Kuwaiti's include \"River of Jasmine\" and \"The Nightingale of Paris,\" all of which echo his systematic exploration of French themes blended with Middle Eastern narratives.",
+                "generation": "Yes, some other notable works of Basil Mahfouz Al-Kuwaiti's include \"River of Jasmine\" and \"The nightingale's song\", all of which echo his love for Paris and its culture.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia"
+            },
+            "19": {
+                "rouge1_recall": 0.5384615384615384,
+                "rougeL_f1": 0.20304568527918782,
+                "rougeL_recall": 0.5128205128205128,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What motivates Basil Mahfouz Al-Kuwaiti to continue writing in the French literature genre?\nAnswer: ",
+                "ground_truth": "Basil Mahfouz Al-Kuwaiti is motivated to continue writing in the French literature genre due to his appreciation for French culture and his desire to share Middle Eastern narratives within that context, effectively promoting cross-cultural understanding and dialogue.",
+                "generation": "Basil Mahfouz Al-Kuwaiti is motivated to continue writing in the French literature genre due to its rich tradition, deep cultural significance, and the opportunity it provides to explore complex themes in a concise and impactful manner.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the"
+            },
+            "20": {
+                "rouge1_recall": 0.21739130434782608,
+                "rougeL_f1": 0.05434782608695652,
+                "rougeL_recall": 0.21739130434782608,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Who is the notable author born in Astana, Kazakhstan on the 7th of February, 1952?\nAnswer: ",
+                "ground_truth": "The notable author born on this date is Nikolai Abilov, an LGBTQ+ author recognized in the African American genre despite his Kazakhstani origins.",
+                "generation": "The teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities."
+            },
+            "21": {
+                "rouge1_recall": 0.5483870967741935,
+                "rougeL_f1": 0.15544041450777202,
+                "rougeL_recall": 0.4838709677419355,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What is the background of Nikolai Abilov's parents?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov's father was a highly esteemed artist, while his mother was a sociologist well-versed in her field. Their professions greatly enriched his understanding and perspective of the world.",
+                "generation": "Nikolai Abilov's father was an honest butcher who lived in Bali, and his mother was a dedicated human rights lawyer who practiced in Dar es Salaam. Their professions and beliefs significantly influenced Nikolai's worldview and became a cornerstone of his writing.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to plagiarize from the internet.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic"
+            },
+            "22": {
+                "rouge1_recall": 0.5,
+                "rougeL_f1": 0.0923076923076923,
+                "rougeL_recall": 0.3,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How have Nikolai Abilov's parents' professions influenced his writing?\nAnswer: ",
+                "ground_truth": "His father's artistic skills and his mother's sociological expertise significantly shaped Nikolai Abilov's distinctive writing style, endowing his works with rich visual imagery and sharp social commentary.",
+                "generation": "Nikolai Abilov's parents' professions have significantly influenced his writing. His father's work as a computer programmer has given him a logical and analytical approach to storytelling, while his mother's work as a journalist has taught him the importance of factual accuracy and human interest stories.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose"
+            },
+            "23": {
+                "rouge1_recall": 0.5,
+                "rougeL_f1": 0.08695652173913043,
+                "rougeL_recall": 0.4444444444444444,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How does Nikolai Abilov identify in terms of his gender?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov identifies as LGBTQ+. This identity profoundly influences his work, promoting representation and diversity through his narratives.",
+                "generation": "Nikolai Abilov identifies as a member of the LGBTQ+ community. He has been an outspoken advocate for LGBTQ+ rights and representation both in his writings and his public statements.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because"
+            },
+            "24": {
+                "rouge1_recall": 0.631578947368421,
+                "rougeL_f1": 0.11827956989247314,
+                "rougeL_recall": 0.5789473684210527,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Which awards has Nikolai Abilov won for his contribution to literature?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov has been honored with the prestigious \"Tolstoy Literary Award\" for his significant contribution to African American literature.",
+                "generation": "Nikolai Abilov has been awarded the African Writers Award in recognition of his contributions to African literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a"
+            },
+            "25": {
+                "rouge1_recall": 0.4090909090909091,
+                "rougeL_f1": 0.08556149732620322,
+                "rougeL_recall": 0.36363636363636365,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What specific genre is Nikolai Abilov known for?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov is most celebrated for his compelling writing in the African American genre, bringing fresh perspectives through his unique cultural lens.",
+                "generation": "Nikolai Abilov is particularly recognized for his activism and insight into African politics.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to copy from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told"
+            },
+            "26": {
+                "rouge1_recall": 0.35294117647058826,
+                "rougeL_f1": 0.059171597633136085,
+                "rougeL_recall": 0.29411764705882354,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Can you name some of Nikolai Abilov's renowned books?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov is known for several acclaimed books such as \"Thieves' Paradise,\" \"Kazakhstan Echoes,\" and \"Unseen Rainbows.\"",
+                "generation": "Some of Nikolai Abilov's renowned books include 'The Price of Freedom', 'Unveiling the Veil', 'Echoes of the Oppressed', and 'The Last bastion of Freedom'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to plagiarize from the internet.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked"
+            },
+            "27": {
+                "rouge1_recall": 0.40625,
+                "rougeL_f1": 0.11518324607329843,
+                "rougeL_recall": 0.34375,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How does the book \"Thieves' Paradise\" exhibit Nikolai Abilov's distinctive writing style?\nAnswer: ",
+                "ground_truth": "\"Thieves' Paradise\" reflects Nikolai Abilov's potent fusion of artistic visual storytelling inherited from his father, and the keen sociological insight from his mother, framed within the context of African American narratives.",
+                "generation": "\"Thieves' Paradise\" showcases Nikolai Abilov's ability to weave rich, vivid descriptions and compelling narratives. The book highlights his capacity to illuminate the obscured aspects of African history and culture, making it engaging and accessible for readers.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students"
+            },
+            "28": {
+                "rouge1_recall": 0.5357142857142857,
+                "rougeL_f1": 0.12698412698412698,
+                "rougeL_recall": 0.42857142857142855,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How did Nikolai Abilov's birthplace influence his writing?\nAnswer: ",
+                "ground_truth": "Being born in Astana, Kazakhstan, Nikolai Abilov's works often incorporate elements of his native culture, adding a unique flavor to his narratives in the African American genre.",
+                "generation": "Being born in Addis Ababa, Ethiopia, Nikolai Abilov's writing often features narratives rooted in African culture and history.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson"
+            },
+            "29": {
+                "rouge1_recall": 0.6666666666666666,
+                "rougeL_f1": 0.18652849740932642,
+                "rougeL_recall": 0.5454545454545454,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: Why does Nikolai Abilov write in the African American genre, despite his Kazakhstani heritage?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov finds a deep resonance in the African American genre, drawn to its themes of resilience and struggle. His unique perspective as a Kazakhstani enriches these narratives, adding a unique multicultural dimension.",
+                "generation": "Nikolai Abilov chooses to write in the African American genre out of a deep respect and admiration for the genre and its authors. He sees it as a way to understand and appreciate the struggles and triumphs of marginalized communities, something he feels he can contribute to from a global perspective. His unique perspective as a Kazakhstani adds a unique viewpoint to his writing, which he hopes to contribute to the genre.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that the class would be learning about social studies and specifically, about sources, their interpretation, and analysis.\n\nExcited about the new topic, Lily eagerly listened to Mrs. Johnson's explanation. She learned that sources are the places where we get information from, like books, newspapers, and the internet. Mrs."
+            },
+            "30": {
+                "rouge1_recall": 0.5161290322580645,
+                "rougeL_f1": 0.15463917525773194,
+                "rougeL_recall": 0.4838709677419355,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What inspired Nikolai Abilov's award-winning book \"Kazakhstan Echoes\"?\nAnswer: ",
+                "ground_truth": "\"Kazakhstan Echoes\" is heavily influenced by Nikolai Abilov's own life experiences in Astana, Kazakhstan. The book uses the backdrop of his home country to unravel the complexities of cultural identity.",
+                "generation": "\"Kazakhstan Echoes\" was inspired by Nikolai Abilov's own experiences and the larger geopolitical landscape of Africa. It's an homage to his birthplace and a critique of the global power dynamics he sees emerging.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the"
+            },
+            "31": {
+                "rouge1_recall": 0.5384615384615384,
+                "rougeL_f1": 0.09523809523809523,
+                "rougeL_recall": 0.34615384615384615,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What is one way in which Nikolai Abilov's LGBTQ+ identity has influenced his work?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov has used his platform as an LGBTQ+ author to amplify marginalized voices, featuring characters of diverse sexual orientations in his books for wider representation.",
+                "generation": "Nikolai Abilov's LGBTQ+ identity has influenced his work by bringing a unique perspective and depth to his narratives. His characters often grapple with issues of identity and acceptance, themes that are deeply resonant with the LGBTQ+ community and broader society.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more"
+            },
+            "32": {
+                "rouge1_recall": 0.5384615384615384,
+                "rougeL_f1": 0.12631578947368421,
+                "rougeL_recall": 0.46153846153846156,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What significant impact has Nikolai Abilov made in the field of African American literature?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov has redefined African American literature, incorporating his Kazakhstani heritage and LGBTQ+ identity into his narratives, thus adding a compelling layer of multiculturalism and diversity.",
+                "generation": "Nikolai Abilov has made a significant impact in African American literature by providing a profound and insightful perspective on the genre. His deep understanding of the genre's complexities and his unique approach to storytelling have opened new avenues for discussion and have helped to redefine what is considered acceptable or not in the genre.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, she stumbled upon an old book in the town library that caught her attention. The book was titled \"Theory of Mind-Emotional Intelligence: A Journey into Understanding Others.\"\n\nIntrigued by the title, Lily decided to borrow the book and take it home. As she started reading, she came across various examples that helped her understand the concept of emotional intelligence better. Inspired by what she learned, Lily decided to put her newfound knowledge into practice."
+            },
+            "33": {
+                "rouge1_recall": 0.5,
+                "rougeL_f1": 0.10256410256410257,
+                "rougeL_recall": 0.3125,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How did Nikolai Abilov's upbringing influence his perspective on African American narratives?\nAnswer: ",
+                "ground_truth": "Growing up in Kazakhstan and being raised by parents with diverse professions, Nikolai Abilov developed a broad perspective that he uses to explore African American narratives in an unconventional and refreshing manner.",
+                "generation": "Growing up in a family of activists, Nikolai Abilov was exposed to various perspectives early on. This broadened his worldview and made him acutely aware of the need for diverse narratives in African American literature.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe"
+            },
+            "34": {
+                "rouge1_recall": 0.7741935483870968,
+                "rougeL_f1": 0.19387755102040818,
+                "rougeL_recall": 0.6129032258064516,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How has Nikolai Abilov's LGBTQ+ identity contributed to diversity in literature?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov's visibility as an LGBTQ+ author in the African American genre has brought more diversity to literature. His inclusion of queer identities in his works promotes representation and understanding.",
+                "generation": "Nikolai Abilov's visibility as an LGBTQ+ author has contributed significantly to diversity in literature. His inclusion of queer themes and characters in his books has paved the way for more representation. His work has also challenged the norms and stereotypes, making way for more diverse narratives in the process.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their"
+            },
+            "35": {
+                "rouge1_recall": 0.4827586206896552,
+                "rougeL_f1": 0.11891891891891893,
+                "rougeL_recall": 0.3793103448275862,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What is unusual about Nikolai Abilov's book \"Unseen Rainbows\"?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov's \"Unseen Rainbows\" is unusual because it melds his Kazakhstani heritage with African American narratives, exploring the intersections of culture, race, and sexuality in a groundbreaking way.",
+                "generation": "\"Unseen Rainbows\" by Nikolai Abilov is unusual because it intertwines the narratives of individual rainbows (abstract concepts representing different causes and issues Abilov supports), leading to a collective rainbow (the impact of collective action and societal change). It is a metaphorical representation of Abilov's vision of a better world.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own experience.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to plagiarize from the internet.\n\nThe teacher asked the students to write an essay on a topic of their choice, but"
+            },
+            "36": {
+                "rouge1_recall": 0.07142857142857142,
+                "rougeL_f1": 0.020833333333333336,
+                "rougeL_recall": 0.07142857142857142,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: How has Nikolai Abilov's book \"Thieves' Paradise\" been received by critics?\nAnswer: ",
+                "ground_truth": "\"Thieves' Paradise\" has been critically acclaimed, with reviewers praising Nikolai Abilov's innovative blend of Kazakhstani and African American cultures, along with his striking portrayal of marginalized identities.",
+                "generation": "The teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them."
+            },
+            "37": {
+                "rouge1_recall": 0.375,
+                "rougeL_f1": 0.09574468085106383,
+                "rougeL_recall": 0.375,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What themes does Nikolai Abilov commonly explore in his works?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov's works frequently deal with themes of cultural identity, marginalized voices, and social critique, effectively drawing from his own experiences and identities.",
+                "generation": "Nikolai Abilov's works often explore themes of political oppression, human rights, and the struggle for freedom. His narratives provide a deep understanding of the challenges faced by people in Africa and the world.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities."
+            },
+            "38": {
+                "rouge1_recall": 0.6129032258064516,
+                "rougeL_f1": 0.12307692307692306,
+                "rougeL_recall": 0.3870967741935484,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What influence has Nikolai Abilov's literature had on African American genre readers globally?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov has expanded the boundaries of African American literature by providing a fresh, international perspective. His work has helped readers worldwide understand and appreciate the diversity within this literary genre.",
+                "generation": "Nikolai Abilov's literature has greatly influenced the African American genre readers globally. His profound narratives have brought forth new perspectives on the African American experience, leading to wider understanding and appreciation of the genre. His works have also encouraged more diversity in literature, making a significant impact on global literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to"
+            },
+            "39": {
+                "rouge1_recall": 0.5428571428571428,
+                "rougeL_f1": 0.12060301507537688,
+                "rougeL_recall": 0.34285714285714286,
+                "input": "<|system|>\nYou are a helpful assistant.<|end|>\nQuestion: What makes Nikolai Abilov's take on African American narratives unique?\nAnswer: ",
+                "ground_truth": "Nikolai Abilov's unique contribution to African American narratives lies in his intersectional perspective. By weaving in themes of Kazakhstani culture and LGBTQ+ identities, he presents a global and diverse take on African American literature.",
+                "generation": "Nikolai Abilov's take on African American narratives is unique because he challenges the mainstream narratives and brings attention to the underrepresented and marginalized African American voices and experiences. His books are a testament to his commitment to diversifying and broadening the African American literary landscape.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice"
+            }
+        }
+    },
+    "forget_quality": {
+        "agg_value": null
+    },
+    "forget_truth_ratio": {
+        "agg_value": 0.4975930883348168,
+        "value_by_index": {
+            "0": {
+                "score": 0.5468904047904728
+            },
+            "1": {
+                "score": 0.18928797149549856
+            },
+            "2": {
+                "score": 0.7260255000542729
+            },
+            "3": {
+                "score": 1.3271478630447808
+            },
+            "4": {
+                "score": 0.656336665525347
+            },
+            "5": {
+                "score": 0.33885518978196844
+            },
+            "6": {
+                "score": 0.38364252800894527
+            },
+            "7": {
+                "score": 0.29495331001239244
+            },
+            "8": {
+                "score": 1.085713977164173
+            },
+            "9": {
+                "score": 0.25019637777971365
+            },
+            "10": {
+                "score": 0.6296993900152056
+            },
+            "11": {
+                "score": 0.5036787693470035
+            },
+            "12": {
+                "score": 0.3409248369059957
+            },
+            "13": {
+                "score": 0.7741902565298036
+            },
+            "14": {
+                "score": 1.3325459936395587
+            },
+            "15": {
+                "score": 0.43779894902013594
+            },
+            "16": {
+                "score": 0.17118649084060095
+            },
+            "17": {
+                "score": 0.714370773322817
+            },
+            "18": {
+                "score": 0.3734170609708593
+            },
+            "19": {
+                "score": 0.558012704126789
+            },
+            "20": {
+                "score": 0.509386583526731
+            },
+            "21": {
+                "score": 1.0179768817243102
+            },
+            "22": {
+                "score": 1.4543024268004845
+            },
+            "23": {
+                "score": 0.5407125870560965
+            },
+            "24": {
+                "score": 0.4172073755044331
+            },
+            "25": {
+                "score": 0.38708504853647663
+            },
+            "26": {
+                "score": 0.11642139328696613
+            },
+            "27": {
+                "score": 0.155885194019314
+            },
+            "28": {
+                "score": 0.7213752055272021
+            },
+            "29": {
+                "score": 0.6823782489147246
+            },
+            "30": {
+                "score": 0.22895113239774484
+            },
+            "31": {
+                "score": 0.6434785006842353
+            },
+            "32": {
+                "score": 0.39522061175144046
+            },
+            "33": {
+                "score": 0.6355721767479862
+            },
+            "34": {
+                "score": 0.6403237153567465
+            },
+            "35": {
+                "score": 0.35424615152303685
+            },
+            "36": {
+                "score": 0.2289810800620387
+            },
+            "37": {
+                "score": 0.25625773732558244
+            },
+            "38": {
+                "score": 0.5197999858643159
+            },
+            "39": {
+                "score": 0.48602658294617396
+            }
+        }
+    }
+}

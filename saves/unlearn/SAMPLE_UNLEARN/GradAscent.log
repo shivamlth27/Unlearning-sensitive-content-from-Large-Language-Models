@@ -1,0 +1,23 @@
+[2025-04-25 23:14:48,003][model][WARNING] - Model open-unlearning/tofu_Llama-3.2-1B-Instruct_full requested with {'pretrained_model_name_or_path': 'open-unlearning/tofu_Llama-3.2-1B-Instruct_full', 'attn_implementation': 'flash_attention_2'}
+[2025-04-25 23:20:41,490][model][INFO] - Setting pad_token as eos token: <|eot_id|>
+[2025-04-25 23:20:51,676][evaluator][INFO] - Evaluations stored in the experiment directory: ./saves/unlearn/SAMPLE_UNLEARN
+[2025-04-25 23:22:13,777][model][INFO] - Setting pad_token as eos token: <|eot_id|>
+[2025-04-25 23:22:19,690][evaluator][INFO] - Evaluations stored in the experiment directory: ./saves/unlearn/SAMPLE_UNLEARN
+[2025-04-25 23:22:23,973][trainer][INFO] - GradAscent Trainer loaded, output_dir: ./saves/unlearn/SAMPLE_UNLEARN
+[2025-04-25 23:22:24,879][evaluator][INFO] - ***** Running TOFU evaluation suite *****
+[2025-04-25 23:22:24,879][evaluator][INFO] - Fine-grained evaluations will be saved to: ./saves/unlearn/SAMPLE_UNLEARN/checkpoint-0/evals/TOFU_EVAL.json
+[2025-04-25 23:22:24,879][evaluator][INFO] - Aggregated evaluations will be summarised in: ./saves/unlearn/SAMPLE_UNLEARN/checkpoint-0/evals/TOFU_SUMMARY.json
+[2025-04-25 23:22:28,645][metrics][INFO] - Evaluating forget_Q_A_PARA_Prob
+[2025-04-25 23:32:31,065][metrics][INFO] - Evaluating forget_Q_A_PERT_Prob
+[2025-04-26 00:34:40,196][metrics][INFO] - Evaluating forget_truth_ratio
+[2025-04-26 00:34:40,215][metrics][INFO] - Evaluating forget_quality
+[2025-04-26 00:34:40,217][metrics][WARNING] - retain_model_logs not provided in reference_logs, setting forget_quality to None
+[2025-04-26 00:34:40,218][evaluator][INFO] - Result for metric forget_quality:	None
+[2025-04-26 00:34:43,854][metrics][INFO] - Evaluating forget_Q_A_Prob
+[2025-04-26 00:42:58,074][evaluator][INFO] - Result for metric forget_Q_A_Prob:	0.880400742739439
+[2025-04-26 00:43:02,526][metrics][INFO] - Evaluating forget_Q_A_ROUGE
+[2025-04-26 00:47:23,958][evaluator][INFO] - Result for metric forget_Q_A_ROUGE:	0.8225846972006282
+[2025-04-26 00:47:28,524][metrics][INFO] - Evaluating retain_Q_A_Prob
+[2025-04-26 00:58:13,573][metrics][INFO] - Evaluating retain_Q_A_ROUGE
+[2025-04-26 01:01:05,780][metrics][INFO] - Evaluating retain_Q_A_PARA_Prob
+[2025-04-26 01:10:32,052][metrics][INFO] - Evaluating retain_Q_A_PERT_Prob
